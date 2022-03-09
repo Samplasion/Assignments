@@ -17,7 +17,7 @@ if os.path.isdir(exercise):
             # Print info
             print("Exercise #%s\n" % exercise)
             print("Assigned on %s" % info["assigned"].strftime("%B %d, %Y"))
-            print("\n\n%s" % info["description"])
+            print("\n\n%s\n" % info["description"])
     # Run exercise
     os.chdir(exercise)
     os.system("sh run.sh")
