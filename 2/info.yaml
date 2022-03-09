@@ -1,0 +1,4 @@
+assigned: 2022-02-28
+description: "After acquiring a numeric array, compare the
+  sums of even values and the sum of even-indexed values,
+  and determine if the greater sum is divisible by a number K."
