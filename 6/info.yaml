@@ -1,0 +1,8 @@
+assigned: 2022-03-10
+description: "Given an array V of N numbers, make two arrays, A and B, containing
+  respectively negative and positive numbers (consider 0 as neither). Then, make
+  an array C with elements from A and B, such that the elements alternate between
+  odd and even. If A and B have different lengths, use the shorter length.
+  Finally, print C and how many elements from A or B haven't been considered.
+  
+  \nAssigned as part of today's test."
