@@ -1,0 +1,6 @@
+assigned: 2022-09-01
+description: "Given an n-sized integer array, compute the difference
+  between the minimum and maximum values. If the minimum is not 0,
+  calculate the ratio maximum / minimum.
+
+  \nSelf-assigned"
