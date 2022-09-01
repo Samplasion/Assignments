@@ -15,9 +15,9 @@ if os.path.isdir(exercise):
             info = yaml.safe_load(info_file)
 
             # Print info
-            print("Exercise #%s\n" % exercise)
+            print("Exercise #%s" % exercise)
             print("Assigned on %s" % info["assigned"].strftime("%B %d, %Y"))
-            print("\n\n%s\n" % info["description"])
+            print("\n%s\n" % info["description"])
     # Run exercise
     os.chdir(exercise)
     os.system("sh run.sh")
